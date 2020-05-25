@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/artem/.ssh'
+let g:netrw_dirhist_4='/home/artem'
+let g:netrw_dirhist_3='/home/artem/.ssh'
+let g:netrw_dirhist_2='/home/artem/Projects/Portfolio/src/components/Main/Info/Works'
+let g:netrw_dirhist_1='/home/artem/Projects/Portfolio/src/components/Main/Info'
+let g:netrw_dirhist_0='/home/artem/Projects/Portfolio/src/components/Main'
+let g:netrw_dirhist_9='/home/artem/Projects/Portfolio/src/components'
+let g:netrw_dirhist_8='/home/artem/Projects/Portfolio/src'
+let g:netrw_dirhist_7='/home/artem/Projects/Portfolio'
+let g:netrw_dirhist_6='/home/artem/Projects/Travel/css'
